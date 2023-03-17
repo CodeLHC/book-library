@@ -29,6 +29,7 @@
     "supertest": "^6.3.3"
   },
   "dependencies": {
-    "pg": "^8.10.0"
+    "pg": "^8.10.0",
+    "sequelize": "^6.29.3"
   }
 }
